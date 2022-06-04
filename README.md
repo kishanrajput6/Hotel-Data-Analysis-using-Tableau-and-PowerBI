@@ -1,6 +1,8 @@
 # Hotel-Data-Analysis-using-Tableau-and-PowerBI
 
-# Develop a Database to Analyze & Visualize Hotel Booking Data.
+![powerbi](https://user-images.githubusercontent.com/102408608/171991365-afb8a8b6-7bb6-4fc4-b683-1f1b0f177d11.png)
+
+Develop a Database to Analyze & Visualize Hotel Booking Data.
 Build a visual data story or dashboard using Power Bi to present to stockholder,
 
 1. Is our hotel revenue growing by year?
