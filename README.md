@@ -1,4 +1,4 @@
-# Hotel-Data-Analysis-using-PowerBI
+# Hotel Data Analysis using PowerBI
 
 ![powerbi](https://user-images.githubusercontent.com/102408608/171991365-afb8a8b6-7bb6-4fc4-b683-1f1b0f177d11.png)
 
